@@ -11,14 +11,13 @@ AlmaBetter Capstone Project - Unsupervised: Netflix Movies And Tv Shows Clusteri
 
 Netflix Inc. is an American media company based in Los Gatos, California. Founded in 1997 by Reed Hastings and Marc Randolph in Scotts Valley, California, it operates the over-the-top subscription video-on-demand service Netflix brand, which includes original films and television series commissioned or acquired by the company, and third-party content licensed from other distributors. (Wikipedia).
 
-# 📋 Project summary -
 This dataset consists of tv shows and movies available on Netflix. The dataset is collected from Flexible which is a third-party Netflix search engine. Netflix movies and TV shows clustering is a data analysis and machine learning technique that Netflix uses to group its content into similar categories. This technique involves analyzing the various characteristics of each title, such as genre, cast, and plot, and using algorithms to identify patterns and similarities. In essence, it's a set of algorithms using machine learning to analyze user data and movie ratings. To make it more effective, Netflix has set up 1,300 recommendation clusters based on users viewing preferences. Netflix's target market is young, tech-savvy users and anyone with digital connectivity. The audience of Netflix is from diverse age groups and demographics. However, most of the audience are teenagers, college-goers, entrepreneurs, working professionals, etc. Netflix's target consumers are divided into segments based on demographics, behavioral intents, and psychographic segmentation. Like most licensing agreements, the deal is structured in a traditional form, whereby Netflix pays for each film determined by rate cards on a sliding scale by each title's domestic or worldwide box office receipts. Netflix uses machine learning and algorithms to help break viewers' preconceived notions and find shows that they might not have initially chosen. To do this, it looks at nuanced threads within the content, rather than relying on broad genres to make its predictions.
 
-# 📋 Dataset summary -
+# 📋 Problem Statement -
 
 This dataset consists of tv shows and movies available on Netflix as of 2019. The dataset is collected from Flixable which is a third-party Netflix search engine. In 2018, they released an interesting report which shows that the number of TV shows on Netflix has nearly tripled since 2010. The streaming service’s number of movies has decreased by more than 2,000 titles since 2010, while its number of TV shows has nearly tripled. It will be interesting to explore what all other insights can be obtained from the same dataset. Integrating this dataset with other external datasets such as IMDB ratings, and rotten tomatoes can also provide many interesting findings.
 
-
+# 📋 Dataset Information -
 
 We have the data which contains details of customers like id, age, and gender and also contains the details of the customer's vehicle
 
@@ -56,6 +55,10 @@ listed_in : Generes
 
 description: The Summary description
 
+
+
+# 📋 Visualization -
+
 Project Workflow:
 
 Importing Libraries,
@@ -65,8 +68,6 @@ Data Cleaning & Data Analysis,
 Feature selection,
 Implementing different clustering methods,
 Conclusion,
-
-# 📋 Visualization -
 
 from the dataset, 30% of the content are from tv shows and 70% from movies. rating adult is usually present in maximum content either movies/tv shows.Since the number of movie shows is higher than the number of TV shows, movie shows receive the highest rating when compared to TV shows, from this we can say people like to watch movie show than compare to tv shows.
 
