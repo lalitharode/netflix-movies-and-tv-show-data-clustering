@@ -3,7 +3,8 @@ Analyzing the Netflix data to do clustering
 
 AlmaBetter Capstone Project - Unsupervised: Netflix Movies And Tv Shows Clustering.
 
-![Uploading image.png…]()
+![image](https://github.com/lalitharode/netflix-movies-and-tv-show-data-clustering/assets/118443225/fa8505e8-fa93-4659-adf1-7768dc3b6946)
+
 
 # 📋 Introduction -
 
